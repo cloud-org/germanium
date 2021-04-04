@@ -1,2 +1,5 @@
 .DS_Store
 germanium
+
+.idea/
+.vscode/
