@@ -1,5 +1,7 @@
 # Germanium
 
+[![goreleaser](https://github.com/cloud-org/germanium/actions/workflows/release.yaml/badge.svg)](https://github.com/cloud-org/germanium/actions/workflows/release.yaml)
+
 Germanium is an alternative to [Carbon](https://github.com/carbon-app/carbon) and [Silicon](https://github.com/Aloxaf/silicon) implemented in Go.
 
 ![screenshot](assets/img/sample.png)
